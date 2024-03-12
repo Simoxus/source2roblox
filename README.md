@@ -1,3 +1,5 @@
+#  View the documentation [here](simoxus.github.io)
+
 
 ![image](https://github.com/Simoxus/source2roblox/assets/103011016/1ad2a55d-6769-4677-86e8-3c75eadcc3ee)
 
@@ -16,7 +18,3 @@ Source2Roblox is a super cool C# console application originally created by Maxim
 This program is not very user-friendly, but if you want to take up the challenge, you can attempt to get S2R up and running!
 
 <hr/>
-
-## 🗜️ Setup
-
-View the documentation [here](simoxus.github.io)
